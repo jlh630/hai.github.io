@@ -1,4 +1,4 @@
-http://example.com/about/index.html
-http://example.com/2023/11/16/My-New-Post/
-http://example.com/2023/11/16/hello-world/
-http://example.com/
+http://hai.github.io/about/index.html
+http://hai.github.io/2023/11/16/My-New-Post/
+http://hai.github.io/2023/11/16/hello-world/
+http://hai.github.io/
