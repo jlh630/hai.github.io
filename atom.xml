@@ -6,7 +6,7 @@
   <link href="http://jlh630.github.io/atom.xml" rel="self"/>
   
   <link href="http://jlh630.github.io/"/>
-  <updated>2023-11-15T18:18:43.262Z</updated>
+  <updated>2023-11-20T07:09:59.095Z</updated>
   <id>http://jlh630.github.io/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hxd</title>
+    <link href="http://jlh630.github.io/2023/11/20/hxd/"/>
+    <id>http://jlh630.github.io/2023/11/20/hxd/</id>
+    <published>2023-11-20T07:09:23.000Z</published>
+    <updated>2023-11-20T07:09:59.095Z</updated>
+    
+    <content type="html"><![CDATA[<p>#你好<br>你好aaa</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#你好&lt;br&gt;你好aaa&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好</title>
+    <link href="http://jlh630.github.io/2023/11/16/index/"/>
+    <id>http://jlh630.github.io/2023/11/16/index/</id>
+    <published>2023-11-15T18:40:54.000Z</published>
+    <updated>2023-11-15T18:41:44.906Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
