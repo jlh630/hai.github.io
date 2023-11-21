@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jlh630.github.io/2023/11/20/hxd/</loc>
+    <loc>http://jlh630.github.io/2023/11/20/first/</loc>
     
-    <lastmod>2023-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://jlh630.github.io/2023/11/16/index/</loc>
-    
-    <lastmod>2023-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://jlh630.github.io/2023/11/16/My-New-Post/</loc>
-    
-    <lastmod>2023-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://jlh630.github.io/2023/11/16/hello-world/</loc>
-    
-    <lastmod>2023-11-15</lastmod>
+    <lastmod>2023-11-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,12 +13,47 @@
 
   <url>
     <loc>http://jlh630.github.io/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2023-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://jlh630.github.io/tags/ebpf-xdp/</loc>
+    <lastmod>2023-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jlh630.github.io/tags/ebpf-xdp/</loc>
+    <lastmod>2023-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jlh630.github.io/tags/bpf/</loc>
+    <lastmod>2023-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jlh630.github.io/tags/xdp/</loc>
+    <lastmod>2023-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://jlh630.github.io/categories/kernel/</loc>
+    <lastmod>2023-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
