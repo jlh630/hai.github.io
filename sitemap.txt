@@ -1,7 +1,5 @@
 http://jlh630.github.io/2023/11/20/first/
 http://jlh630.github.io/
-http://jlh630.github.io/tags/ebpf-xdp/
-http://jlh630.github.io/tags/ebpf-xdp/
 http://jlh630.github.io/tags/bpf/
 http://jlh630.github.io/tags/xdp/
 http://jlh630.github.io/categories/kernel/

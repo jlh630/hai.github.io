@@ -20,20 +20,6 @@
 
   
   <url>
-    <loc>http://jlh630.github.io/tags/ebpf-xdp/</loc>
-    <lastmod>2023-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jlh630.github.io/tags/ebpf-xdp/</loc>
-    <lastmod>2023-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://jlh630.github.io/tags/bpf/</loc>
     <lastmod>2023-11-21</lastmod>
     <changefreq>weekly</changefreq>
